@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 100vh;
+    min-height: 600px;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+}
+header::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: url("Lending-Pei-dzh-v-konstruktore-Wix-1500x500.jpg") no-repeat center;
+    background-size: cover;
+    opacity: 0.4;
+    animation: transform 30s infinite;
+}
+.main {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+.main h1 {
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-size: 50px;
+    margin-bottom: 80px;
+}
+.btn {
+    color: #ccc;
+}
+
+@keyframes transform {
+    50% {
+        transform: scale(1.3);
+    }
+    100% {
+        transform: scale(1);
+    }
+
+}
