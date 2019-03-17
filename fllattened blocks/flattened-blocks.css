@@ -1,0 +1,49 @@
+.first {
+    width: 50px;
+    height: 50px;
+    margin: 20px auto;
+    background: #D16BA5;
+    border-top: 50px solid #86A8E7;
+    border-right: 50px solid #cccccc;
+    border-bottom: 50px solid #5FFBF1;
+    border-left: 50px solid #222222;
+ }
+.second {
+    width: 0;
+    height: 0;
+    margin: 20px auto;
+    border-top: 50px solid #86A8E7;
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+}
+.third {
+    width: 0;
+    height: 0;
+    margin: 20px auto;
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+    border-bottom: 50px solid #5FFBF1;
+}
+.fourth {
+    width: 0;
+    height: 0;
+    margin: 20px auto;
+    border-top: 50px solid transparent;
+    border-right: 50px solid #cccccc;
+    border-bottom: 50px solid transparent;
+}
+.fifth {
+    width: 0;
+    height: 0;
+    margin: 20px auto;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-left: 50px solid #222222;
+}
+.sixth {
+    width: 50px;
+    height: 0;
+    margin: 20px auto;
+    border-top: 50px solid #86A8E7;
+    border-right: 50px solid transparent;
+}
