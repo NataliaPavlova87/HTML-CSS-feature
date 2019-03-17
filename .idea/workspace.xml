@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08626b62-f7b2-4257-b5da-a8430b40a7bd" name="Default Changelist" comment="" />
+    <list default="true" id="08626b62-f7b2-4257-b5da-a8430b40a7bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/landing-page/landing-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing-page/landing-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sun/sun.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sun/sun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradient/gradient.css" beforeDir="false" afterPath="$PROJECT_DIR$/gradient/gradient.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradient/gradient.html" beforeDir="false" afterPath="$PROJECT_DIR$/gradient/gradient.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,17 +26,12 @@
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gradient.html">
+            <entry file="file://$PROJECT_DIR$/landing-page/landing-page.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+                <state relative-caret-position="209">
+                  <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gradient.css">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -34,10 +39,10 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gradient.css">
+            <entry file="file://$PROJECT_DIR$/landing-page/landing-page.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="19">
-                  <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+                <state relative-caret-position="597">
+                  <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -62,6 +67,15 @@
       <list>
         <option value="$PROJECT_DIR$/gradient.html" />
         <option value="$PROJECT_DIR$/gradient.css" />
+        <option value="$PROJECT_DIR$/gradient/gradient.css" />
+        <option value="$PROJECT_DIR$/select/select.css" />
+        <option value="$PROJECT_DIR$/select/select.html" />
+        <option value="$PROJECT_DIR$/gradient/gradient.html" />
+        <option value="$PROJECT_DIR$/sun/sun.css" />
+        <option value="$PROJECT_DIR$/sun/sun.html" />
+        <option value="$PROJECT_DIR$/landing-page/landing-pafe.html" />
+        <option value="$PROJECT_DIR$/landing-page/landing-page.html" />
+        <option value="$PROJECT_DIR$/landing-page/landing-page.css" />
       </list>
     </option>
   </component>
@@ -84,6 +98,21 @@
               <item name="HTML-CSS-feature" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML-CSS-feature" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HTML-CSS-feature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-CSS-feature" type="462c0819:PsiDirectoryNode" />
+              <item name="gradient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-CSS-feature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-CSS-feature" type="462c0819:PsiDirectoryNode" />
+              <item name="landing-page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML-CSS-feature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML-CSS-feature" type="462c0819:PsiDirectoryNode" />
+              <item name="select" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,6 +127,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Geekbrains\GIT\HTML\HTML-CSS-feature\gradient" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,12 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552824166736</updated>
-      <workItem from="1552824170436" duration="429000" />
+      <workItem from="1552824170436" duration="4828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="429000" />
+    <option name="totallyTimeSpent" value="4828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -155,17 +189,59 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradient.html">
+    <entry file="file://$PROJECT_DIR$/gradient/gradient.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradient.css">
+    <entry file="file://$PROJECT_DIR$/select/select.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="597">
+          <caret line="143" column="1" selection-start-line="143" selection-start-column="1" selection-end-line="143" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/select/select.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradient/gradient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sun/sun.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sun/sun.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page/landing-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landing-page/landing-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
         </state>
       </provider>
     </entry>
